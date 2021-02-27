@@ -1,0 +1,15 @@
+This application provides a basic tutorial to learn Morse Code and Vigenere Cipher. It also provides a translator ( Encryption and Decryption ).
+
+Features:
+
+1. Morse Code Encryption simulator
+
+2. Morse Code Decryption simulator
+
+3. Vigenère Cipher Encryption simulator
+
+4. Vigenère Cipher Decryption simulator
+
+5. Quiz on Morse code
+
+6. Book and video source based on these secret language codes ( Morse & Vigenère )
