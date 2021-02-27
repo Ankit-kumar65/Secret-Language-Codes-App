@@ -1,0 +1,2 @@
+rootProject.name='Secret Language Codes'
+include ':app'

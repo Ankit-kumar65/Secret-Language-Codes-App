@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="pdfView" type="id" />
+    <item name="pdfView1" type="id" />
+    <item name="toAlphaBtn" type="id" />
+</resources>
