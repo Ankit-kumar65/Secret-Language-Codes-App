@@ -1,6 +1,8 @@
 # Secret-Language-Codes-App
 
-App link : https://apkfun.com/Morse-amp-Vigenere-Code-Secret-Language-Codes.html
+App link 1 : https://www.amazon.com/IIIT-Guwahati-Secret-Language-Codes/dp/B08BJRZ84R
+
+App link2 : https://apkfun.com/Morse-amp-Vigenere-Code-Secret-Language-Codes.html
 
 It's a code-translation app that encodesand decodes Morse Code and Vigenere Cipher. This application also provides a basic tutorial to learn Morse Code and Vigenere Cipher. 
 
